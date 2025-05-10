@@ -130,3 +130,40 @@ margin-top: 10px;
     margin-top: 20px;
 }
 
+.yeddi{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   
+    margin-top: 100px;
+
+}
+.sekkiz{
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin-top: 100px;
+}
+.sekkiz .codrops{
+    margin-top: -30px;
+}
+.sekkiz .awwards{
+    margin-top: -40px;
+}
+.sekkiz .hongkiat {
+    margin-top: -25px;
+}
+.sekkiz .medium {
+    margin-top: -30px;
+   
+}
+.sekkiz .speckyboy {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sekkiz .dwb {
+    margin-top: -20px;
+}
