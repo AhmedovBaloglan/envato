@@ -1,4 +1,4 @@
-* {
+* { 
     margin: 0;
     padding: 0;
 }
@@ -40,21 +40,19 @@ background-color: rgb(20, 20, 20);
     font-size: 50px;
     justify-content: center;
     align-items: center;
-    width: 100%;
+   
     gap: 10px;
     padding: 10px;
     margin-top: 20px;
     
 }
 
-.ucuncu .deserve{
 
-    margin: 0;
-}
 .ucuncu2{
     font-size: 20px;
     justify-content: center;
 }
+
 .button3{
     border-radius: 8px;
     width: 150px;
@@ -66,17 +64,17 @@ background-color: rgb(20, 20, 20);
 }
 
 .dorduncu{
-margin-top: 10px;
+    margin-top: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
- background-color: #1E2327; 
- padding: 15px;
- color: aliceblue;  
+    background-color: #1E2327; 
+    padding: 15px;
+    color: aliceblue;  
 }
 
 .gridCon {
-    width: 100%;
+  
     background-color: #181C20;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -94,18 +92,19 @@ margin-top: 10px;
     color: white;
     text-align: center;
 }
+
 .besinci {
     display: flex;
     flex-direction: column;
     font-size: 50px;
     justify-content: center;
     align-items: center;
-    width: 100%;
     gap: 10px;
     padding: 10px;
     margin-top: 20px;
 
 }
+
 .besinci .besinci1{
      display: flex;
     flex-direction: column;
@@ -113,9 +112,11 @@ margin-top: 10px;
     justify-content: center;
     align-items: center;
 }
+
+
 .altinci{
     margin-top: 50px;
-     width: 100%;
+    
      align-items: center;
     display: flex;
     justify-content: space-between;
@@ -136,17 +137,17 @@ margin-top: 10px;
     font-size: 30px;
     justify-content: center;
     align-items: center;
-    width: 100%;
-   
     margin-top: 100px;
 
 }
+
 .sekkiz{
     padding-left: 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     margin-top: 100px;
 }
+
 .sekkiz .codrops{
     margin-top: -30px;
 }
@@ -167,3 +168,77 @@ margin-top: 10px;
 .sekkiz .dwb {
     margin-top: -20px;
 }
+
+
+.customer{
+    height: 500px;
+    margin-top: 100px;
+
+    background-color: #181C20;
+    
+}
+.showcase{
+    margin-top: 50px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 40px;
+    align-items: center;
+
+}
+
+
+.cappy{
+    margin-top: 10px;
+    color: dimgrey;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 25px;
+    align-items: center;
+}
+.foto{
+    padding-left: 40px;
+    padding-top: 50px;
+    background-color: #181C20;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    justify-content: center;
+}
+.foto h2{
+    color: white;
+    text-align: center;
+    
+}
+.frequently h1{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 60px;
+    align-items: center;
+
+}
+.frequently .cant{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+.frequently .cant .question {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 25px;
+    align-items: center;
+    color: dimgrey;
+}
+.frequently .cant .chat{
+    font-size: 25px;
+    
+}
+
+
